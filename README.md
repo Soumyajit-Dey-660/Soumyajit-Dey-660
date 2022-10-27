@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and building stuffs.
 - 🎓 &nbsp; Studied Computer Science & Engineering from B.P. Poddar Institute of Management & Technology.
-- 💼 &nbsp; Working as a Jr. Data Engineer at ThirdEye Data Analytics PVT LTD.
-- 🌱 &nbsp; Learning more about the Web, Artificial Intelligence.
+- 💼 &nbsp; Working as a software engineer at Oracle Cerner.
+- 🌱 &nbsp; Learning more about the Web.
 - ✍️ &nbsp; Learning more about responsive and cool UI/UX as a hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
